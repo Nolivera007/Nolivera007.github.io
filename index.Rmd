@@ -1,15 +1,37 @@
 ---
-title: "My website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Hola, soy Noé Olivera."
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
+<div class = "container">
+  <div class = "pull-left">
+```{r, echo = FALSE, eval = TRUE, out.width="75%", fig.align='center'}
+knitr::include_graphics(here::here("img/noe_perfil.png"))
 ```
 
+<center>**Noé Olivera**  
+*Economista* </center>
+  </div>
+  
+  
+  <div class = "pull-right">
+¡Hola, bienvenido a mi sitio web personal! Soy economista, apasionado por la economía, entusiasta de la Ciencia de Datos, Machine Learning y Visualización de Datos. Me especializo en lenguajes de programación como R, Python y SQL enfocado al análisis de datos. Me gusta compartir y adquirir conocimiento en temas relacionados.
+  </div>
+</div>
+<br>
+
+## Formación
+<div class = "container">
+  <div class = "pull-left">
+### Educación
+- Licenciatura en Economía | **Universidad Nacional Autónoma de Honduras (UNAH), 2021.**
+
+ </div>
+  <div class = "pull-right">
+### Cursos
+
+- [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) | **Harvard University.**
+-
+-
+  </div>
+</div>

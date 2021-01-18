@@ -1,5 +1,6 @@
 name: "nolivera007.github.io"
 title: "My website"
+theme: theme.css
 description: |
   My website
 output_dir: "."

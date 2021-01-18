@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-18T14:28:44-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hola, soy Noé Olivera.",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\nNoé OliveraEconomista\n\n\n\n¡Hola, bienvenido a mi sitio web personal! Soy economista, apasionado por la economía, entusiasta de la Ciencia de Datos, Machine Learning y Visualización de Datos. Me especializo en lenguajes de programación como R, Python y SQL enfocado al análisis de datos. Me gusta compartir y adquirir conocimiento en temas relacionados.\n\n\n\nFormación\n\nEducación\nLicenciatura en Economía | Universidad Nacional Autónoma de Honduras (UNAH), 2021.\nCursos\nCS50x: Introduction to Computer Science | Harvard University.\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-01-18T14:28:23-06:00"
+    }
+  ],
+  "collections": []
+}
