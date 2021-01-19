@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-18T20:38:13-06:00"
+      "last_modified": "2021-01-18T20:45:58-06:00"
     },
     {
       "path": "index.html",
@@ -16,11 +16,12 @@
       "last_modified": "2021-01-18T20:41:34-06:00"
     },
     {
-      "path": "portafolio.html",
+      "path": "portfolio.html",
       "title": "Portfolio",
+      "description": "Some additional details about the Portfolio\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-18T20:41:21-06:00"
+      "last_modified": "2021-01-18T20:45:33-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
