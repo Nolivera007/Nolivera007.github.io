@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "path": "posts/2021-01-18-crecimientoecohn/",
+    "title": "Crecimiento economico",
+    "description": "Crecimiento economico de Honduras, variación del PIB",
+    "author": [
+      {
+        "name": "Noe Olivera",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-13",
+    "categories": [],
+    "contents": "\nCrecimiento economico de Honduras\n\n\nlibrary(readr)\nlibrary(dplyr)\nlibrary(tidyr)\nlibrary(ggplot2)\nlibrary(ggtext)\nlibrary(ggthemes)\n\n\n\n\n\npib <- read_csv('pib_crecimiento.csv')\n\n\n\n\n\npib %>% \n  filter(anio >= 2000) %>% \n  ggplot(aes(x = anio, y = Crecimiento)) +\n  geom_bar(stat = 'identity')\n\n\n\n\n\n\n\n",
+    "preview": "posts/2021-01-18-crecimientoecohn/crecimientoecohn_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2021-01-18T20:59:11-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-18-deudapibca/",
+    "title": "Deuda pública de los países Centroaméricanos",
+    "description": "Honduras es el tercer país de Centroamérica con menor deuda pública.",
+    "author": [
+      {
+        "name": "Noe Olivera",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-18",
+    "categories": [],
+    "contents": "\n\nContents\nTabla de datos\nPrimer gráfico: Deuda Pública (Millones de dólares)\nSegundo gráfico: Porcentaje respecto al PIB\nTercer gráfico: Gráfico final\n\n\n\n\nProducto de la crisis sanitaría del Covid-19 y no menos importante, la reactivación económica los países centroameticanos presentan un fuerte aumento en la deuda pública, según el Consejo Monetario Centroamericano (CMC).\nHonduras presenta una deuda pública de 13,989.2 millones de dólares, esto es el 56.4% del Producto Interno Bruto (PIB).\n\n\n\nTabla de datos\n\n\nTable 1: Deuda pública (Millones de dólares) y pocentaje respecto al PIB\n\n\nPaís\n\n\nDeuda Pública\n\n\nPorcentaje Respecto al PIB\n\n\nNicaragua\n\n\n6393.3\n\n\n54.8\n\n\nHonduras\n\n\n13989.2\n\n\n56.4\n\n\nEl Salvador\n\n\n22084.2\n\n\n88.0\n\n\nGuatemala\n\n\n24634.1\n\n\n32.0\n\n\nCosta Rica\n\n\n49132.6\n\n\n82.2\n\n\nPrimer gráfico: Deuda Pública (Millones de dólares)\n\n\n\nSegundo gráfico: Porcentaje respecto al PIB\n\n\n\n\n\n\nTercer gráfico: Gráfico final\n\n\n\n\n\n\n",
+    "preview": "posts/2021-01-18-deudapibca/deudapibca_files/figure-html5/unnamed-chunk-4-1.png",
+    "last_modified": "2021-01-18T20:55:13-06:00",
+    "input_file": {}
+  }
+]
