@@ -91,16 +91,23 @@ img {
   border-radius: 50%;
 }
 
+#logos a {
+    color: white;
+    font-size: 26px;
+    margin: 0 10px 0 0;
+    text-decoration: none;
+}
+
 /* Set a specific color for each brand */
 
-.fa-linkedin-in {
+#fa-linkedin-in:hover {
   color: #007bb6
 }
 
-.fa-github {
-  color: #000;
+#fa-twitter:hover {
+  color: #55ACEE;
 }
 
-.fa-twitter {
-  color: #55ACEE;
+#fa-github:hover {
+  color: #000;
 }

@@ -24,7 +24,7 @@ knitr::include_graphics(here::here("img/noe_perfil.png"))
 <div class = "container">
   <div class = "pull-left">
 ### Educación
-- Licenciatura en Economía | **Universidad Nacional Autónoma de Honduras (UNAH), 2021.**
+- Licenciatura en Economía | **Universidad Nacional Autónoma de Honduras (UNAH).**
 
  </div>
   <div class = "pull-right">
