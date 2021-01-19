@@ -6,6 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
+<<<<<<< HEAD
       "last_modified": "2021-01-18T10:42:27-06:00"
     },
     {
@@ -18,4 +19,25 @@
     }
   ],
   "collections": []
+=======
+      "last_modified": "2021-01-18T20:59:55-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hola, soy Noé Olivera.",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\nNoé OliveraEconomista\n\n\n\n¡Hola, bienvenido a mi sitio web personal! Soy economista, apasionado por la economía, entusiasta de la Ciencia de Datos, Machine Learning y Visualización de Datos. Me especializo en lenguajes de programación como R, Python y SQL enfocado al análisis de datos. Me gusta compartir y adquirir conocimiento en temas relacionados.\n\n\n\nFormación\n\nEducación\nLicenciatura en Economía | Universidad Nacional Autónoma de Honduras (UNAH).\nCursos\nCS50x: Introduction to Computer Science | Harvard University.\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-01-18T20:59:56-06:00"
+    },
+    {
+      "path": "portfolio.html",
+      "title": "Portfolio",
+      "description": "Some additional details about the Portfolio\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-18T20:59:57-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+>>>>>>> test
 }
