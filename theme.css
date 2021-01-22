@@ -78,12 +78,12 @@ d-appendix {
 
 .pull-left {
   float: left;
-  width: 47%;
+  width: 50%;
 }
 
 .pull-right {
   float: right;
-  width: 47%;
+  width: 50%;
 }
 
 /*
@@ -95,23 +95,27 @@ img {
 
 */
 
+.a {
+    text-decoration: none;
+}
+
 #logos a {
     color: white;
-    font-size: 26px;
+    font-size: 20px;
     margin: 0 10px 0 0;
     text-decoration: none;
 }
 
 /* Set a specific color for each brand */
 
-#fa-linkedin-in:hover {
-  color: #007bb6
+#fa-linkedin-in {
+  color: #007bb6;
 }
 
-#fa-twitter:hover {
+#fa-twitter {
   color: #55ACEE;
 }
 
-#fa-github:hover {
+#fa-github {
   color: #000;
 }

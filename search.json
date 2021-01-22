@@ -2,16 +2,20 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "about",
       "author": [],
       "contents": "\n\n\n\n",
+<<<<<<< HEAD
       "last_modified": "2021-01-18T21:07:07-06:00"
+=======
+      "last_modified": "2021-01-21T21:28:01-06:00"
+>>>>>>> test
     },
     {
       "path": "index.html",
       "title": "Hola, soy Noé Olivera.",
       "author": [],
+<<<<<<< HEAD
       "contents": "\n\n\n\n\n\n\nNoé OliveraEconomista\n\n\n\n¡Hola, bienvenido a mi sitio web personal! Soy economista, apasionado por la economía, entusiasta de la Ciencia de Datos, Machine Learning y Visualización de Datos. Me especializo en lenguajes de programación como R, Python y SQL enfocado al análisis de datos. Me gusta compartir y adquirir conocimiento en temas relacionados.\n\n\n\nFormación\n\nEducación\nLicenciatura en Economía | Universidad Nacional Autónoma de Honduras (UNAH).\nCursos\nCS50x: Introduction to Computer Science | Harvard University.\n\n\n\n\n\n\n\n",
       "last_modified": "2021-01-18T21:07:20-06:00"
     },
@@ -22,7 +26,11 @@
       "author": [],
       "contents": "\n\n\n\n",
       "last_modified": "2021-01-18T21:07:10-06:00"
+=======
+      "contents": "\n\n\n\n\n\n\nNoé Olivera\n\n\n  \n\n\n\nSoy economista, apasionado por la economía, interesado en la econometría aplicada y entusiasta de la ciencia de datos. También me interesa el mundo del Open Source. Este es mi sitio personal donde comparto el trabajo que realizo en mis proyectos personales, principalmente visualización de datos con ggplot2.\nMis intereses se enfocan en conocer y analizar la situación económica y social de Honduras, América latina y el Caribe.\n“Without data, you’re just another person with an opinion”, W. Edwards Deming.\n\n\n\n\n\nAlgunas cosas más sobre mí…\nMe facina la programación, mi primir acercamiento a la programación fue con R, luego en menor medida con las técnologias web, HTML, CSS y JavaScript. Recientemente para ciencia de datos conocí Python y SQL.\nDe la economía he aprendido que un problema está relacionado con otros y de la programación que un problema no es mas que la sucesión de problemas mas pequeños y esa es la forma más efectiva de resolverlos.\nCuándo me preguntan que hago en mi tiempo libre me gusta decir que “juego ajedrez”.\n\n\n\n\nFormación\n\nEducación\nLicenciatura en Economía | Universidad Nacional Autónoma de Honduras (UNAH).\nCursos\nCS50x: Introduction to Computer Science | Harvard University.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-01-21T21:28:02-06:00"
+>>>>>>> test
     }
   ],
-  "collections": ["posts/posts.json"]
+  "collections": []
 }
