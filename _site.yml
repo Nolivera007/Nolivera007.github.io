@@ -7,8 +7,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Portfolio"
-      href: portfolio.html
     - text: "About"
       href: about.html
     - icon: fab fa-github

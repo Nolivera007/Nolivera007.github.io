@@ -1,7 +1,0 @@
----
-title: "Portfolio"
-description: |
-  Some additional details about the Portfolio
-listing: posts
----
-
