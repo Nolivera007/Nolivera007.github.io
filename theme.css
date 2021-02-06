@@ -68,7 +68,7 @@ d-appendix {
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        12px;
   --hover-color:      white;
   --bkgd-color:       #0F2E3D;
 }
@@ -86,14 +86,12 @@ d-appendix {
   width: 50%;
 }
 
-/*
 
-img {
+#perfil {
   border: 2px solid black;
-  border-radius: 50%;
+  border-radius: 70%;
 }
 
-*/
 
 .a {
     text-decoration: none;
@@ -118,4 +116,12 @@ img {
 
 #fa-github {
   color: #000;
+}
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
