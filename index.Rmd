@@ -1,67 +1,28 @@
 ---
-title: "Hola, soy Noé Olivera."
+title: "Hola, soy Noé Olivera"
 site: distill::distill_website
 ---
 
-<div class = "container">
-  <div class = "pull-left">
-```{r, echo = FALSE, eval = TRUE, out.width="75%", fig.align='center'}
-knitr::include_graphics(here::here("img/profile.png"))
-```
+<head>
+<title>-> Noé Olivera</title>
+</head>
 
-<center>**Noé Olivera**</center>
-
-<center>
-<a href="https://www.linkedin.com/in/no%C3%A9-olivera-53411b159/" class="fab fa-linkedin-in" id="fa-linkedin-in"></a>
-<a href="https://twitter.com/nolivera007" class="fab fa-twitter" id="fa-twitter"></a>
-<a href="https://github.com/Nolivera007" class="fab fa-github" id="fa-github"></a>
-</center>
+<div>
+<div
+<p>Soy economista hondureño</p>
+<p>Hago visualizaciones de las principales variables economicas del país.</p>
+<p>Este es mi sitio web personal donde comparto...</p>
+<ul>
+<li>Comparto las <a href="https://github.com/Nolivera007/data_visualization">visualizaciones</a> que hago con ggplot2</li>
+<li>Comparto el desarrollo de un <a href="https://github.com/Nolivera007/openhn">paquete R</a> de datos para facilitar el uso de R</li>
+<li>Comparto una lista en Notion de los <a href="https://www.notion.so/7e1226a54ab74a69b95d373bc5ea8af4?v=9aa4589b80cb4d789c296819d679a652">libros</a> que actualmente estoy leyendo sobre economía, econometría, ciencia de datos y otros temas.</li>
+</ul>
 </div>
-  
-
-  <div class = "pull-right">
-Soy economista, apasionado por la economía, interesado en la econometría aplicada y entusiasta de la ciencia de datos. También me interesa el mundo del [Open Source](https://en.wikipedia.org/wiki/Open_source). Este es mi sitio personal donde comparto el trabajo que realizo en mis [proyectos personales](https://github.com/Nolivera007/data_visualization), principalmente visualización de datos con [ggplot2](https://ggplot2.tidyverse.org/index.html).
-
-Mis intereses se enfocan en conocer y analizar la situación económica y social de Honduras, América latina y el Caribe. 
-
-_"Without data, you’re just another person with an opinion"_, W. Edwards Deming.
-  </div>
 </div>
-<br>
-
 
 <div>
-<div>
-Algunas cosas más sobre mí...
-
-- Me facina la programación, mi primir acercamiento a la programación fue con R, luego en menor medida con las técnologias web, HTML, CSS y JavaScript. Recientemente para ciencia de datos conocí Python y SQL.
-
-- De la economía he aprendido que un problema está relacionado con otros y de la programación que un problema no es mas que la sucesión de problemas mas pequeños y esa es la forma más efectiva de resolverlos.
-
-- Cuándo me preguntan que hago en mi tiempo libre me gusta decir que "juego ajedrez".
-
-
-<div>
-<div>
-<br>
-
-<br>
-
-## Formación
-<div class = "container">
-  <div class = "pull-left">
-### Educación
-- Licenciatura en Economía | **Universidad Nacional Autónoma de Honduras (UNAH).**
-
- </div>
-  <div class = "pull-right">
-### Cursos
-
-- [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) | **Harvard University.**
--
--
-  </div>
+<h2>Proyectos</h2>
+<p>
+Si estas empezando a utilizar R con el objetivo de facilitar el uso de R estoy desarrollando un paquete de datos R, llamado <a href="https://github.com/Nolivera007/openhn">`openhn`</a> el cual contiene datos económicos y sociales de Honduras.
+</p>
 </div>
-<br>
-
-<br>

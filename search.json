@@ -2,17 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "about",
+      "title": "Hola, soy Noé Olivera",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-21T21:28:01-06:00"
+      "contents": "\n\n\n\n\n\nNoé Olivera\n\n\n  \n\n\n\nSoy economista, apasionado por la economía, interesado en la econometría aplicada y entusiasta de la ciencia de datos. Este es mi sitio web personal donde comparto el trabajo que realizo en mis proyectos personales, principalmente visualización de datos con ggplot2.\nMis intereses se enfocan en conocer y analizar la situación económica y social de Honduras, América latina y el Caribe.\n\n\n\n\n\nAlgunas cosas más sobre mí…\nMe facina la programación, mi primir acercamiento a la programación fue con R, luego con las técnologias web, HTML, CSS y JavaScript. Recientemente para ciencia de datos conocí Python y SQL.\nDe la economía he aprendido que un problema está relacionado con otros y de la programación que un problema no es mas que la sucesión de problemas mas pequeños y esa es la forma más efectiva de resolverlos.\nCuándo me preguntan que hago en mi tiempo libre me gusta decir que “juego ajedrez”.\n\n\n\n\nFormación\n\nEducación\nEconomía | Universidad Nacional Autónoma de Honduras (UNAH).\nCursos\nCS50x: Introduction to Computer Science | Harvard.\nCS50s: Introduction to Artificial Intelligence with Python | Harvard.\nCS229: Machine Learning | Stanford.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n      \n      \n      \n      \n    \n  \n\n\n\n",
+      "last_modified": "2021-02-05T21:36:53-06:00"
     },
     {
       "path": "index.html",
-      "title": "Hola, soy Noé Olivera.",
+      "title": "Hola, soy Noé Olivera",
       "author": [],
-      "contents": "\n\n\n\n\n\n\nNoé Olivera\n\n\n  \n\n\n\nSoy economista, apasionado por la economía, interesado en la econometría aplicada y entusiasta de la ciencia de datos. También me interesa el mundo del Open Source. Este es mi sitio personal donde comparto el trabajo que realizo en mis proyectos personales, principalmente visualización de datos con ggplot2.\nMis intereses se enfocan en conocer y analizar la situación económica y social de Honduras, América latina y el Caribe.\n“Without data, you’re just another person with an opinion”, W. Edwards Deming.\n\n\n\n\n\nAlgunas cosas más sobre mí…\nMe facina la programación, mi primir acercamiento a la programación fue con R, luego en menor medida con las técnologias web, HTML, CSS y JavaScript. Recientemente para ciencia de datos conocí Python y SQL.\nDe la economía he aprendido que un problema está relacionado con otros y de la programación que un problema no es mas que la sucesión de problemas mas pequeños y esa es la forma más efectiva de resolverlos.\nCuándo me preguntan que hago en mi tiempo libre me gusta decir que “juego ajedrez”.\n\n\n\n\nFormación\n\nEducación\nLicenciatura en Economía | Universidad Nacional Autónoma de Honduras (UNAH).\nCursos\nCS50x: Introduction to Computer Science | Harvard University.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-01-21T21:28:02-06:00"
+      "contents": "\n\n\n-> Noé Olivera\n\nSoy economista hondureño\nHago visualizaciones de las principales variables economicas del país.\nEste es mi sitio web personal donde comparto...\nComparto las visualizaciones que hago con ggplot2\nComparto el desarrollo de un paquete R de datos para facilitar el uso de R\nComparto una lista en Notion de los libros que actualmente estoy leyendo sobre economía, econometría, ciencia de datos y otros temas.\n\n\n\n\nProyectos\n\n\nSi estas empezando a utilizar R con el objetivo de facilitar el uso de R estoy desarrollando un paquete de datos R, llamado openhn el cual contiene datos económicos y sociales de Honduras.\n\n\n\n\n\n",
+      "last_modified": "2021-02-05T21:36:54-06:00"
     }
   ],
   "collections": []
